@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshprasanth&layout=compact&langs_count=12&theme=solarized-dark" />
 </a>
 <a href="https://github.com/rajeshprasanth/rajeshprasanth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrakitin&count_private=true&show_icons=true)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshprasanth&count_private=true&show_icons=true)" />
 </a>
 <a href="https://github.com/rajeshprasanth/rajeshprasanth">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rajeshprasanth&theme=solarized-dark&hide_border=true" />
