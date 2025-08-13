@@ -3,6 +3,7 @@
   <img width="150" src="https://raw.githubusercontent.com/rajeshprasanth/rajeshprasanth/master/assets/3965359-modified.png" />
 </p>  
 <h2 align="center">Hi there!, I'm Rajesh Prashanth!!</h2>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshprasanth)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshprasanth@rediffmail.com)
 
