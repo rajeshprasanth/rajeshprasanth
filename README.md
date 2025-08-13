@@ -1,7 +1,7 @@
-
 <p align="center">
   <img width="150" src="https://raw.githubusercontent.com/rajeshprasanth/rajeshprasanth/master/assets/3965359-modified.png" />
 </p>  
+
 <h2 align="center">Hi there!, I'm Rajesh Prashanth!!</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshprasanth)
@@ -15,6 +15,18 @@
 💡 **I automate things just for fun!**
 
 > Currently working on self-hosted solutions & cloud-native applications
+
+---
+
+## 🌟 Featured Projects
+
+- [**home-lab-dashboard-flask**](https://github.com/rajeshprasanth/home-lab-dashboard-flask) – A Flask-based dashboard for monitoring and managing home lab environments.  
+- [**kpath**](https://github.com/rajeshprasanth/kpath) – Python tool for generating high-symmetry points in band structure calculations.  
+- [**espresso-automation-scripts**](https://github.com/rajeshprasanth/espresso-automation-scripts) – Automation scripts and notebooks for Quantum ESPRESSO workflows.  
+- [**ansible-homelab**](https://github.com/rajeshprasanth/ansible-homelab) – Ansible playbooks for automating home lab infrastructure.  
+- [**dockerized-tools**](https://github.com/rajeshprasanth/dockerized-tools) – Prebuilt Docker images for commonly used DevOps utilities.
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -38,6 +50,8 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
+---
+
 ## 🎯 What I'm Working On
 
 - 🏠 **Home Lab Projects** - Building and maintaining self-hosted solutions
@@ -46,24 +60,32 @@
 - 🛡️ **Security Implementations** - Hardening infrastructure and applications
 - 📚 **Learning & Experimenting** - Always exploring new technologies
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshprasanth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshprasanth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshprasanth&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshprasanth&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=rajeshprasanth&theme=dracula&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=rajeshprasanth&theme=dracula&column=3&margin-w=8&margin-h=8" alt="trophy graph" />
 </div>
+
+---
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshprasanth&theme=dracula&hide_border=false" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshprasanth&theme=dracula" alt="streak graph" />
 </div>
+
+---
 
 ## 🎵 Fun Facts
 
@@ -71,6 +93,8 @@
 - 🤖 I have a habit of automating repetitive tasks, even personal ones
 - 🏠 My home lab is my playground for testing new technologies
 - 📚 Always reading about the latest in DevOps and security trends
+
+---
 
 ## 💬 Let's Connect!
 
@@ -82,13 +106,14 @@ I'm always interested in discussing:
 - Cloud-native architectures
 - Music and technology intersection
 
+---
+
 ## 🤝 Support My Work
 
 If you find my projects helpful:
 
-⭐ **Star my repositories** - It helps others discover them!  
-☕ **Buy me a coffee** - Coming Soon!  
-🤝 **Collaborate** - Open to interesting projects and discussions!
+⭐ **Star my repositories** – It helps others discover them!  
+🤝 **Collaborate** – Open to interesting projects and discussions!
 
 ---
 
