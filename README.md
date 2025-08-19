@@ -24,8 +24,7 @@
 - [**kpath**](https://github.com/rajeshprasanth/kpath) – Python tool for generating high-symmetry points in band structure calculations.  
 - [**espresso-automation-scripts**](https://github.com/rajeshprasanth/espresso-automation-scripts) – Automation scripts and notebooks for Quantum ESPRESSO workflows.  
 - [**ansible-homelab**](https://github.com/rajeshprasanth/ansible-homelab) – Ansible playbooks for automating home lab infrastructure.  
-- [**dockerized-tools**](https://github.com/rajeshprasanth/dockerized-tools) – Prebuilt Docker images for commonly used DevOps utilities.
-
+- [**Cheatsheets**](https://github.com/rajeshprasanth/Cheatsheets) – A comprehensive collection of IT and homelab cheatsheets for quick reference and learning. 
 ---
 
 ## 🛠️ Tech Stack & Tools
